@@ -4,4 +4,4 @@ Använder Systembolagets öppna XML-fil för att sortera de tillgängliga drycke
 
 Beställningssortimentet exkluderas.
 
-I nuläget skriver den bara ut en fulrepresentation av de 50 första raderna till stdout. Välkommen att göra något vettigare av denna data.
+I nuläget skriver den bara ut en fulrepresentation av de 50 första raderna till stdout. Välkommen att göra något vettigare av dessa data.
